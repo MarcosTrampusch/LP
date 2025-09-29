@@ -184,7 +184,7 @@ body {
 }
 
 .services .service:nth-child(2) {
-    background-color: lightpink;
+    background-color: yellow;
 }
 
 @media(max-width: 425px) {
